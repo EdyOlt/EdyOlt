@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdyOlt
-- 👀 I’m interested in app development
+- 👀 I’m interested in app development and the development of my problem solving skills
 - 🌱 I’m currently learning c++ and c#
 
 
